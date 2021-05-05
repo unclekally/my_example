@@ -1,2 +1,4 @@
 # Explanatory Repository
-Ths is just some text, for clarity!
+The extra mile, for clarity!
+
+Some change for extrA clarity.
